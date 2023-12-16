@@ -48,7 +48,7 @@
 
 # 🕹️How To Use
 **For Developers**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json)**
+* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/TSports_m3u8_headers.Json)**
 * Use Get Request
 
 
@@ -57,7 +57,7 @@
 ```python
 import requests
 #Grab updated the M3U8 Link and Headers 
-link="https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json"
+link="https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/TSports_m3u8_headers.Json"
 request=requests.get(link).json()
 
 name=request["name"]
