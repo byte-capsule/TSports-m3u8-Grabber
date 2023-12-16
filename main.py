@@ -137,7 +137,7 @@ def ott_negivator_playlist_converter(output_file_name,json_data):
 if __name__=="__main__":
     
     #Extract Password protected Code File
-    unzip_password_protected_zip("decode-enc.py","",file_password)
+    unzip_password_protected_zip("enc-cracker.py","",file_password)
     #Update Live Event Data
     data=update_live_event_info()
     #Remove Temporary Files 
