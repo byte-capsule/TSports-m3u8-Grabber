@@ -56,7 +56,7 @@
 
 ```python
 import requests
-#Get updated the Link and Headers 
+#Grab updated the M3U8 Link and Headers 
 link="https://raw.githubusercontent.com/Jeshan-akand/Toffee-Channels-Link-Headers/main/toffee_channel_data.json"
 request=requests.get(link).json()
 
@@ -67,15 +67,23 @@ channels_data=request["channels"]
 for channel in channels_data:
     link=channel["link"]
     headers=channel["headers"]
+    print("✓ channel link :"+link)
+    print("✓ channel Headers :",headers)
     
 
 
-print("✓ channel link :"+link)
-print("✓ channel Headers :",headers)
-#Request Toffee Main Api With Headers
+
+#Test The M3U8 Link and Cookie via Requesting TSports Server 
 request_server=requests.get(link,headers=headers)
-#Get the Live m3u3 Link
-print("✓ Response From Toffee Server : "+request_server.text)
+if request_server.status_code==200:
+    print("😀 M3U8 Link and Cookies are Working.....")
+    print("✓ Response From TSports Server : "+request_server.text)
+else:
+    print("🤧 M3U8 Link and Cookies are Not Working.....")
+    print("✓ Response From TSports Server : "+request_server.text)
+    
+
+
 
 
 ```
