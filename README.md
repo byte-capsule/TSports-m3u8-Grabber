@@ -93,8 +93,11 @@ else:
 
 # 🖥️Optput
 >✓ channel link :https://live-cdn.tsports.com/live-01/index.m3u8
+
 ✓ channel Headers : {'Cookie': 'Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1702818302:KeyName=tsports-ed25519-01:Signature=ptxd7U8tSHlX6U4ImF-KojFqVq31ELgjeYl9rajJt_huoHfV86T9vLC0A79xPKbPa2fElmPe761MJW0fXEIMCw', 'Host': 'live-cdn.tsports.com', 'User-agent': 'https://github.com/byte-capsule (Linux;Android 14)'}
+
 😀 M3U8 Link and Cookies are Working.....
+
 ✓ Response From TSports Server : #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1482984,AVERAGE-BANDWIDTH=1482984,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
@@ -110,19 +113,7 @@ master_240.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=440808,AVERAGE-BANDWIDTH=440808,CODECS="avc1.64000c,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000
 master_144.m3u8
 
-
-> ✓ Response From Toffee Server :
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
-../slang/comedy_central_hd_576/comedy_central_hd_576.m3u8?bitrate=1000000&channel=comedy_central_hd_576&gp_id=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
-../slang/comedy_central_hd_320/comedy_central_hd_320.m3u8?bitrate=768000&channel=comedy_central_hd_320&gp_id=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
-../slang/comedy_central_hd_160/comedy_central_hd_160.m3u8?bitrate=512000&channel=comedy_central_hd_160&gp_id=
-
-
-> [Program finished]
+[Program finished]
 <h1 align="center">
  <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/byte-capsule/TSports-m3u8-Grabber/blob/main/images/IMG_20231216_170902.jpg"></a>
 </h1>
