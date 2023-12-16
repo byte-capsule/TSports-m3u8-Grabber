@@ -1,6 +1,6 @@
 #Tsports Cookie Updater Script
 #By JESHAN AKAND
-#Date 15/12/23
+#Date 16/12/23
 
 import requests,json,os
 
