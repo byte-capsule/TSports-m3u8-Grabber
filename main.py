@@ -142,7 +142,7 @@ if __name__=="__main__":
     data=update_live_event_info()
     #Remove Temporary Files 
     os.remove("decode.py")
-    os.remove("__pycache__")
+    
     #Conver in Json Format
     json_formater("TSports App All Live Matches Data in Json","TSports_m3u8_headers.Json",data)
     #Convert Ns Player PlayList 
