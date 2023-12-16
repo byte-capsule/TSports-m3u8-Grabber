@@ -117,6 +117,9 @@ print("✓ Response From Toffee Server : "+request_server.text)
 <h1 align="center">
  <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/byte-capsule/TSports-m3u8-Grabber/blob/main/images/Screenshot_2023-12-16-14-11-47-028_com.genuine.leone.jpg"></a>
 </h1>
+<h1 align="center">
+ <a href="https://github.com/Jeshan-akand/Toffee-Channels-Link-Headers/blob/main/toffee_channel_data.json"><img src="https://github.com/byte-capsule/TSports-m3u8-Grabber/blob/main/images/Screenshot_2023-12-16-14-11-34-199_com.genuine.leone.jpg"></a>
+</h1>
 
 # 🚬Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
