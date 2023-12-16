@@ -33,6 +33,7 @@ jobs:
           
       - name: commit files
         run: |
+          rm __pycache__
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
