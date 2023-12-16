@@ -92,8 +92,24 @@ else:
 > I'm using Python 3.You can use other Languages.
 
 # 🖥️Optput
-> ✓ channel link :https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
-✓ channel Headers : {'Host': 'bldcmprod-cdn.toffeelive.com', 'cookie': 'Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1698080619:KeyName=prod_linear:Signature=RY1grOoqltoX1yPO4WMzHCQk2xIp1zGvi03K2bdefb-_QErIqzbuBwytBNV5HiSHSsDslAS2gJsuRFT_MnNJCQ'}
+>✓ channel link :https://live-cdn.tsports.com/live-01/index.m3u8
+✓ channel Headers : {'Cookie': 'Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1702818302:KeyName=tsports-ed25519-01:Signature=ptxd7U8tSHlX6U4ImF-KojFqVq31ELgjeYl9rajJt_huoHfV86T9vLC0A79xPKbPa2fElmPe761MJW0fXEIMCw', 'Host': 'live-cdn.tsports.com', 'User-agent': 'https://github.com/byte-capsule (Linux;Android 14)'}
+😀 M3U8 Link and Cookies are Working.....
+✓ Response From TSports Server : #EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1482984,AVERAGE-BANDWIDTH=1482984,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000
+master_1080.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000
+master_720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1131528,AVERAGE-BANDWIDTH=1131528,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000
+master_480.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=780040,AVERAGE-BANDWIDTH=780040,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000
+master_360.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=624744,AVERAGE-BANDWIDTH=624744,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000
+master_240.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=440808,AVERAGE-BANDWIDTH=440808,CODECS="avc1.64000c,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=256x144,FRAME-RATE=25.000
+master_144.m3u8
+
 
 > ✓ Response From Toffee Server :
 #EXTM3U
