@@ -1,0 +1,24 @@
+[
+  {
+    "name": "T Sports Live 2",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/261/ts-live-02.jpeg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1702779264:KeyName=tsports-ed25519-01:Signature=AE34IcM64qUBOQaihcKJswSf7qyrd3MXi5iJPEHmdnS43ExaUWGyh8q5DcUAXpUos2GyjWOgy4ArWZXv-tl0Dg",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "T Sports Live 1",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1702779264:KeyName=tsports-ed25519-01:Signature=AE34IcM64qUBOQaihcKJswSf7qyrd3MXi5iJPEHmdnS43ExaUWGyh8q5DcUAXpUos2GyjWOgy4ArWZXv-tl0Dg",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
