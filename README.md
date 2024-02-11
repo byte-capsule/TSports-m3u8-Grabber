@@ -118,13 +118,15 @@ master_144.m3u8
 
 # 🎬How To Play
 **📱Android**
-* Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
+* Use NS (Network Stream Player) [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/NS_Player_Tsports_live.m3u)
+* 👆 Short Link : https://s.id/21HEC
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/OTT_Navigator_Tspots_live.m3u)
+* 👆 Short Link : https://s.id/21HEF
 *  Enjoy 😊
 
 <h1 align="center">
