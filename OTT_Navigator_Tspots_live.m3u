@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg", LIVE | Bangladesh vs Sri Lanka
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1710709861:KeyName=tsports-ed25519-01:Signature=5Otgy6R9f9pMQYtK9y3GDVN6lztxkZB_nXwFn1CsvJWEMJCx-RCxcZpzoRS3tsK5aYYWJula2dMLiS2EI7PJDw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1710750409:KeyName=tsports-ed25519-01:Signature=pJVAG3pA3M6UvjXOgy96umPuUNs89jh77oTLMscc97k4RBbPu0wwpHuV7C_V9lVr8_ltCSS-JnWDGhbm872mBQ"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg", T Sports Live
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1710709861:KeyName=tsports-ed25519-01:Signature=5Otgy6R9f9pMQYtK9y3GDVN6lztxkZB_nXwFn1CsvJWEMJCx-RCxcZpzoRS3tsK5aYYWJula2dMLiS2EI7PJDw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1710750409:KeyName=tsports-ed25519-01:Signature=pJVAG3pA3M6UvjXOgy96umPuUNs89jh77oTLMscc97k4RBbPu0wwpHuV7C_V9lVr8_ltCSS-JnWDGhbm872mBQ"}
 https://live-cdn.tsports.com/live-01/index.m3u8
