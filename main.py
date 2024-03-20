@@ -1,6 +1,7 @@
 #Tsports Cookie Updater Script
 #By JESHAN AKAND
 #Date 16/12/23
+#App Version 3.1.2
 
 
 import requests,json,os
@@ -57,24 +58,23 @@ def update_live_event_info():
             name=event["contentName"]
             categoryname=event["categoryName"]
             logo=event["mobileLogo"]
-            if event["playingMetaData"]!=0:
-                for link_data in event["playingMetaData"]:
-                    if link_data["isActive"]==1:
-                        link=link_data["mediaUrl"]
-                        cookie=link_data["signedCookie"]
-                        data={
+            if event["contentAes128HlsUrl"]!="":
+                if event["isActive"]==1:
+                    link=event["contentAes128HlsUrl"]
+                    cookie="https://github.com/byte-capsule"#link_data["signedCookie"]
+                    data={
                         "category_name":categoryname,
                         "name":name,
                         "logo":logo,
                         "link":link,
                         "headers":{
                         "Cookie":cookie,
-                        "Host":"live-cdn.tsports.com",
+                        "Host":"live.tsports.com",
                         "User-agent":"https://github.com/byte-capsule (Linux;Android 14)"}
                         
                         
-                        }
-                        all_data.append(data)
+                    }
+                    all_data.append(data)
                 
         
     return all_data
@@ -147,7 +147,7 @@ if __name__=="__main__":
     #Conver in Json Format
     json_formater("TSports App All Live Matches Data in Json","TSports_m3u8_headers.Json",data)
     #Convert Ns Player PlayList 
-    ns_player_playlist_converter("NS_Player_Tsports_live.m3u",data)
+    #ns_player_playlist_converter("NS_Player_Tsports_live.m3u",data)
     #Convert OTT_Navigator PlayList 
-    ott_negivator_playlist_converter("OTT_Navigator_Tspots_live.m3u",data)
+    ott_negivator_playlist_converter("VLC+OTT_Navigator_Tspots_live.m3u",data)
     
