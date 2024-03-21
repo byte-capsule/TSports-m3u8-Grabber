@@ -119,12 +119,14 @@ master_144.m3u8
 # 🎬How To Play
 **📱Android**
 * NS (Network Stream Player) Not working
+* Use Televizo App [Download App](https://play.google.com/store/apps/details?id=com.ottplay.ottplay)
 * Use VLC Player 
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/VLC%2BOTT_Navigator_Tspots_live.m3u)
 * 👆 Short Link : https://s.id/24hru
 *  Enjoy 😊
 
 **🖥️ Android TV**
+* Use Televizo App [Download App](https://play.google.com/store/apps/details?id=com.ottplay.ottplay)
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/OTT_Navigator_Tspots_live.m3u)
 * 👆 Short Link : https://s.id/24hru
