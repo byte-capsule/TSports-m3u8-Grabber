@@ -132,7 +132,7 @@ master_144.m3u8
 * 👆 Short Link : https://s.id/24hru
 *  Enjoy 😊
 
-** 💻 PC **
+**💻 PC**
 * Use VLC Player
 * Add This PlayList [PlayList Link ](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/VLC%2BOTT_Navigator_Tspots_live.m3u)
 * 👆 Short Link : https://s.id/24hru
