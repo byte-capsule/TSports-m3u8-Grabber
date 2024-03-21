@@ -1,6 +1,6 @@
 [
   {
-    "name": "📛 OFF",
+    "name": "Update Link",
     "link": "https://live.tsports.com/mobile_hls/tsports_live_2/auto",
     "logo": "https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg",
     "origin": "live.tsports.com",
@@ -11,7 +11,7 @@
     "drmLicense": ""
   },
   {
-    "name": "📛 OFF",
+    "name": "From Github",
     "link": "https://live.tsports.com/mobile_hls/tsports_live_1/auto",
     "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
     "origin": "https://live-cdn.tsports.com",
