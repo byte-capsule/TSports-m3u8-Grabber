@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", LIVE | IPL 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713130893:KeyName=tsports-ed25519-01:Signature=CdNk2KkW8iQS07d08BcRtrRKyPbAaeAfVAX8Am5k4ZoholL7aztKiSUbw1F6Jr32xsTGBq16tiJszbhyHYLKDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713176052:KeyName=tsports-ed25519-01:Signature=2ejYdC_j_X3LRxmzpEJ2hFs4KOwpSiiZrf2YhIWkkYx_vHloF5jQ92gFP4d6vqFUoo-S6OcyPAG3D7g6YfnjDw"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1712161103-LIVE.jpg", T Sports Live
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713130893:KeyName=tsports-ed25519-01:Signature=CdNk2KkW8iQS07d08BcRtrRKyPbAaeAfVAX8Am5k4ZoholL7aztKiSUbw1F6Jr32xsTGBq16tiJszbhyHYLKDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1713176052:KeyName=tsports-ed25519-01:Signature=2ejYdC_j_X3LRxmzpEJ2hFs4KOwpSiiZrf2YhIWkkYx_vHloF5jQ92gFP4d6vqFUoo-S6OcyPAG3D7g6YfnjDw"}
 https://live-cdn.tsports.com/live-01/index.m3u8
