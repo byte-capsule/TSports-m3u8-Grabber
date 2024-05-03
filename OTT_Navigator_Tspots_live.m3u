@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1711072136-APP-thumb-1280-(2).jpg", LIVE | IPL 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714770790:KeyName=tsports-ed25519-01:Signature=IXEtt1lDoY1VDJAB7xOnG_86PkVFRfYIngatZPEnOpowVoN5aPk87Yb2ykAS_u9eXMX3fIaz-P_DesKSe2gxDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714809368:KeyName=tsports-ed25519-01:Signature=RxF8iAqE-Uxyh3XQAIS1qBViIwFlu0jC_uJFt3Lzv1KXAWR7ZEno753_x85Eb-uGsWbhc_u-9vCFbRPUa-ISDQ"}
 https://live-cdn.tsports.com/live-02/index.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1712161103-LIVE.jpg", T Sports Live
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1714733747-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714770790:KeyName=tsports-ed25519-01:Signature=IXEtt1lDoY1VDJAB7xOnG_86PkVFRfYIngatZPEnOpowVoN5aPk87Yb2ykAS_u9eXMX3fIaz-P_DesKSe2gxDQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1714809368:KeyName=tsports-ed25519-01:Signature=RxF8iAqE-Uxyh3XQAIS1qBViIwFlu0jC_uJFt3Lzv1KXAWR7ZEno753_x85Eb-uGsWbhc_u-9vCFbRPUa-ISDQ"}
 https://live-cdn.tsports.com/live-01/index.m3u8
