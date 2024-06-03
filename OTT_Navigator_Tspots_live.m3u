@@ -1,4 +1,4 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1716750963-LIVE.jpg", T Sports Live 2
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1717449307:KeyName=tsports-ed25519-01:Signature=wBaNJcXMPJZSmJBEEtpK7AyOWVM0xwf8BmR1kBET61FueYvSGp3lDdWGAw-PmlNEeHeEcAjxueO_gLywzlvYBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1717490006:KeyName=tsports-ed25519-01:Signature=K8sk0sdZMqgUYTBbmzHeKr-FeqnrSgfK-TwkB3l3nQ4-ovrJoNRP_ynEbXqWD8h067SI2ce7Isd9ESyu04ToDg"}
 https://live-cdn.tsports.com/live-02/index.m3u8
