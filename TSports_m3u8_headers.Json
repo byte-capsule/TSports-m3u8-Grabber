@@ -2,7 +2,7 @@
   "name": "TSports App All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 1,
-  "updated_on": "06-06-2024 on 6:32:41 PM \ud83c\udf19",
+  "updated_on": "07-06-2024 on 07:16:40 AM \ud83c\udf1e",
   "channels": [
     {
       "category_name": "LIVE",
@@ -10,7 +10,7 @@
       "logo": "https://image.tsports.com/images/mobile_logo/1717654956-Banner--footbll.jpg",
       "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1717749161:KeyName=tsports-ed25519-01:Signature=w4GHbl8b37QdmqUiiUK59fQHM35Isgm-j_xbmSWCy5lX9w_MdHsxVeIgOA4aVAbLiXaOUaQOtjPD_VfqZoiBCQ",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1717795000:KeyName=tsports-ed25519-01:Signature=9X0GspbTXMc7dKFKuNYI71cAlTQpfu0yQJf_hExC_jz5M7E9jBuVzV8rUnULFx7GJrJOdpN-kX_6auDaMr6eDg",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
