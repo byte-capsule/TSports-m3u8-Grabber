@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png", LIVE | UEFA Euro 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718831761:KeyName=tsports-ed25519-01:Signature=Vn06GWjqIlxIqcLLoxzbEowFTBSZwliaPcYcXAGWtAUNGVHlodItP8zOVDEK2A0WvIBW8AYj-Og-1U_MCFWoBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718872407:KeyName=tsports-ed25519-01:Signature=F-wjiTlS7E-fGzQcBX6OswSVx42aaKI_irUoAwq2JnXSOsLmVGPLGeuSNdD7lhs55ps38KjHzYhUX5vLJa_kDA"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1718274547-LIVE.jpg", T Sports Live
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718831761:KeyName=tsports-ed25519-01:Signature=Vn06GWjqIlxIqcLLoxzbEowFTBSZwliaPcYcXAGWtAUNGVHlodItP8zOVDEK2A0WvIBW8AYj-Og-1U_MCFWoBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718872407:KeyName=tsports-ed25519-01:Signature=F-wjiTlS7E-fGzQcBX6OswSVx42aaKI_irUoAwq2JnXSOsLmVGPLGeuSNdD7lhs55ps38KjHzYhUX5vLJa_kDA"}
 https://live-cdn.tsports.com/live-01/index.m3u8
