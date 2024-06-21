@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1718274576-EURO-LIVE-1280-.png", LIVE | UEFA Euro 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718958752:KeyName=tsports-ed25519-01:Signature=MFIuLdk4m0F1WyQnnoF5IbDodcSV_uKqu0ZcrFxWU0s5drcUut0JBAWICVjE6n6I3gbBfvFHrpVTxK_e775rDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719004476:KeyName=tsports-ed25519-01:Signature=4JmRKU40O-yTmkTtnvKolbOIr1qYGWZw6ei8X8yBY4Pb925Tcc4mH2aXgO92-Ki4L9fj0kHxwlEupxRwhzENAA"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1718881159-LIVE-FOR-ott-120.png", Live | Copa America 2024
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1718958752:KeyName=tsports-ed25519-01:Signature=MFIuLdk4m0F1WyQnnoF5IbDodcSV_uKqu0ZcrFxWU0s5drcUut0JBAWICVjE6n6I3gbBfvFHrpVTxK_e775rDg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1719004476:KeyName=tsports-ed25519-01:Signature=4JmRKU40O-yTmkTtnvKolbOIr1qYGWZw6ei8X8yBY4Pb925Tcc4mH2aXgO92-Ki4L9fj0kHxwlEupxRwhzENAA"}
 https://live-cdn.tsports.com/live-01/index.m3u8
