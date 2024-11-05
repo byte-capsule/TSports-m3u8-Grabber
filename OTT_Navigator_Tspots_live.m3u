@@ -1,8 +1,8 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1730795988:KeyName=tsports-ed25519-01:Signature=0C_GBzv-IA8uWCbBqn6F9ZBXoR6I3JqEOOsaY_YfmpFkG79C_KBXNLeZE6-XYJ7fSuiq-BUvPF1Zi5HMOKuXCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1730842015:KeyName=tsports-ed25519-01:Signature=HquSpVm1p7JFsiI-sXXdmDbJPXjDYdnfGGQN4VQENX-kcLmjLS8q-ycP9IFo2_tGXjoOwrRW2UDcfHzZaGl1Cg"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1730795988:KeyName=tsports-ed25519-01:Signature=0C_GBzv-IA8uWCbBqn6F9ZBXoR6I3JqEOOsaY_YfmpFkG79C_KBXNLeZE6-XYJ7fSuiq-BUvPF1Zi5HMOKuXCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1730842015:KeyName=tsports-ed25519-01:Signature=HquSpVm1p7JFsiI-sXXdmDbJPXjDYdnfGGQN4VQENX-kcLmjLS8q-ycP9IFo2_tGXjoOwrRW2UDcfHzZaGl1Cg"}
 https://live-cdn.tsports.com/live-01/index.m3u8
