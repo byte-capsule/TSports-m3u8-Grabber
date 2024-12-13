@@ -1,12 +1,12 @@
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/contents/thumbnail/774/mobile_logo_LIVE_6506adba5876a.jpg", T Sports Live 03
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734126358:KeyName=tsports-ed25519-01:Signature=HA-pKJdYXXycaXuMSrQcGQyoff1W9KjyQKwkWKr5xlzNprRcabcPSh0p5p8BeVZ4Uo48XDuCEWm0ortuQg1iBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734165685:KeyName=tsports-ed25519-01:Signature=fD2SGmUl1xAVGkehHtt5ycsdZzeRNNk9NsX4zLGyV4UzwZEmFb5M1dxGE-ZyVDCZewavOFM4lacpqSu8CdIkBA"}
 https://live-cdn.tsports.com/live-03/playlist.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734126358:KeyName=tsports-ed25519-01:Signature=HA-pKJdYXXycaXuMSrQcGQyoff1W9KjyQKwkWKr5xlzNprRcabcPSh0p5p8BeVZ4Uo48XDuCEWm0ortuQg1iBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734165685:KeyName=tsports-ed25519-01:Signature=fD2SGmUl1xAVGkehHtt5ycsdZzeRNNk9NsX4zLGyV4UzwZEmFb5M1dxGE-ZyVDCZewavOFM4lacpqSu8CdIkBA"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734126358:KeyName=tsports-ed25519-01:Signature=HA-pKJdYXXycaXuMSrQcGQyoff1W9KjyQKwkWKr5xlzNprRcabcPSh0p5p8BeVZ4Uo48XDuCEWm0ortuQg1iBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1734165685:KeyName=tsports-ed25519-01:Signature=fD2SGmUl1xAVGkehHtt5ycsdZzeRNNk9NsX4zLGyV4UzwZEmFb5M1dxGE-ZyVDCZewavOFM4lacpqSu8CdIkBA"}
 https://live-cdn.tsports.com/live-01/index.m3u8
