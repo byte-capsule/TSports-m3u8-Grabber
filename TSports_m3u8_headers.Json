@@ -2,7 +2,7 @@
   "name": "TSports App All Live Matches Data in Json",
   "owner": "Byte Capsule \nTelegram: https://t.me/J_9X_H_9X_N\nGithub:https://github.com/byte-capsule",
   "channels_amount": 2,
-  "updated_on": "28-01-2025 on 07:26:08 AM \ud83c\udf1e",
+  "updated_on": "28-01-2025 on 6:37:36 PM \ud83c\udf19",
   "channels": [
     {
       "category_name": "LIVE",
@@ -10,7 +10,7 @@
       "logo": "https://image.tsports.com/images/mobile_logo/1735207297-BPL-Live-Thum.jpg",
       "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738099568:KeyName=tsports-ed25519-01:Signature=vv9u9VFDrC4s2r0FaYG3EgdDXWGmiL0O56gvPwAlGo0CYSp2D4azaJvzzRZIeJnNoDUoHEXifSpmkpifhtqnDA",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738139856:KeyName=tsports-ed25519-01:Signature=DDfQq1nOOfK4-4g5590rAvOSynJdt_C8gxHz1ham51dl3-vga0t6XTm6Rnfc6m0E9F9n2mWoDQis-Tkz8YB3AQ",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
@@ -21,7 +21,7 @@
       "logo": "https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg",
       "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738099568:KeyName=tsports-ed25519-01:Signature=vv9u9VFDrC4s2r0FaYG3EgdDXWGmiL0O56gvPwAlGo0CYSp2D4azaJvzzRZIeJnNoDUoHEXifSpmkpifhtqnDA",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1738139856:KeyName=tsports-ed25519-01:Signature=DDfQq1nOOfK4-4g5590rAvOSynJdt_C8gxHz1ham51dl3-vga0t6XTm6Rnfc6m0E9F9n2mWoDQis-Tkz8YB3AQ",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
