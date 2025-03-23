@@ -1,8 +1,0 @@
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1742534271-IMG_3293.jpeg", LIVE | IPL 2025
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1742719023:KeyName=tsports-ed25519-01:Signature=slQAYcw3b-sr9sk3efD1ZLTlA618WTXrZwtLkzGG7x93hmS9GNu7fQJ2gGb-nBga2O41hdUKC1DOlNEpET7oAA"}
-https://live-cdn.tsports.com/live-02/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1742719023:KeyName=tsports-ed25519-01:Signature=slQAYcw3b-sr9sk3efD1ZLTlA618WTXrZwtLkzGG7x93hmS9GNu7fQJ2gGb-nBga2O41hdUKC1DOlNEpET7oAA"}
-https://live-cdn.tsports.com/live-01/playlist.m3u8
