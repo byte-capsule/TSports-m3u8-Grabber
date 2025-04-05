@@ -1,6 +1,7 @@
 #Tsports Cookie Updater Script
 #By JESHAN AKAND
 #Date 16/12/23
+#Last Update 5/4/25
 
 
 import requests,json,os
@@ -8,8 +9,14 @@ import requests,json,os
 #Environment Variables
 api_live_matches=os.environ["api_live_matches"]
 file_password=os.environ["file_password"]
+api_proxies=os.environ["file_password"]
 
-
+def load_proxies(api:str) -> list:
+	proxy_list=requests.get(api).text.splitlines()
+	for index,proxy in enumerate(proxy_list):
+		proxy_list[index] = (lambda p: f"socks5://{p.split(':')[2]}:{p.split(':')[3]}@{p.split(':')[0]}:{p.split(':')[1]}" if len(p.split(':')) == 4 else None)(proxy)
+	return proxy_list
+    
 def update_time():
     from datetime import datetime, timedelta
     import time
@@ -45,8 +52,14 @@ def update_live_event_info():
     
     
     
-    req=requests.get(api_live_matches,headers, verify=True)
     
+    proxy_list=load_proxies(api_proxies)
+    if len(proxy_list)!=0:
+        for proxy_url in proxy_list:
+            req=requests.get(api_live_matches,headers,proxies = {'http': proxy_url,'https': proxy_url},verify=False)
+            if req.status_code==200:break
+    else:
+        req=requests.get(api_live_matches,headers, verify=False)
     all_data=[]
     
     
