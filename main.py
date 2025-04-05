@@ -9,7 +9,7 @@ import requests,json,os
 #Environment Variables
 api_live_matches=os.environ["api_live_matches"]
 file_password=os.environ["file_password"]
-api_proxies=os.environ["file_password"]
+api_proxies=os.environ["API_PROXIES"]
 
 def load_proxies(api:str) -> list:
 	proxy_list=requests.get(api).text.splitlines()
