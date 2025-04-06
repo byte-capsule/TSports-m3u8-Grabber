@@ -4,7 +4,8 @@
 #Last Update 5/4/25
 
 
-import requests,json,os
+import requests,json,os,urllib3
+urllib3.disable_warnings()
 
 #Environment Variables
 api_live_matches=os.environ["api_live_matches"]
@@ -64,6 +65,7 @@ def update_live_event_info():
     
     
     decode=json.loads(deecb(req.text))
+    print(decode)
     
     if "contents" in decode["data"]:
         for event in decode["data"]["contents"]:
@@ -154,6 +156,7 @@ if __name__=="__main__":
     unzip_password_protected_zip("enc-cracker.py","",file_password)
     #Update Live Event Data
     data=update_live_event_info()
+    
     #Remove Temporary Files 
     os.remove("decode.py")
     
