@@ -15,7 +15,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # install the python version needed
+          python-version: '3.12' # install the python version needed
           
       - name: install python packages
         run: |
@@ -25,6 +25,7 @@ jobs:
       - name: execute py script # run main.py
         env:
           api_live_matches: ${{ secrets.api_live_matches }}
+          API_PROXIES: ${{ secrets.api_proxies }}
           file_password: ${{ secrets.file_password }}
           password: ${{ secrets.password }}
 
