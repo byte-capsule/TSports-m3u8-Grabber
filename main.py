@@ -5,6 +5,7 @@
 
 
 import requests,json,os,urllib3
+from urllib.parse import urlparse
 urllib3.disable_warnings()
 
 #Environment Variables
@@ -48,12 +49,6 @@ def update_live_event_info():
     "Host":"mapi-cdn.tsports.com",
     "user-agent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
     }
-    
-    
-    
-    
-    
-    
     proxy_list=load_proxies(api_proxies)
     if len(proxy_list)!=0:
         for proxy_url in proxy_list:
@@ -62,34 +57,26 @@ def update_live_event_info():
     else:
         req=requests.get(api_live_matches,headers, verify=False)
     all_data=[]
-    
-    
     decode=json.loads(deecb(req.text))
     print(decode)
-    
     if "contents" in decode["data"]:
         for event in decode["data"]["contents"]:
             name=event["contentName"]
             categoryname=event["categoryName"]
             logo=event["mobileLogo"]
-            if event["playingMetaData"]!=0:
-                for link_data in event["playingMetaData"]:
-                    if link_data["isActive"]==1:
-                        link=link_data["mediaUrl"]
-                        cookie=link_data["signedCookie"]
-                        data={
+            if len(event["playingMetaData"])!=0 or event["contentAes128HlsUrl"]!=None:
+                stream_url=event["contentAes128HlsUrl"] if event["contentAes128HlsUrl"]!=None else event["playingMetaData"][0]["mediaUrl"]
+                cookie = event["playingMetaData"][0].get("signedCookie", "")
+                data={
                         "category_name":categoryname,
                         "name":name,
                         "logo":logo,
-                        "link":link,
+                        "link":stream_url,
                         "headers":{
                         "Cookie":cookie,
-                        "Host":"live-cdn.tsports.com",
-                        "User-agent":"https://github.com/byte-capsule (Linux;Android 14)"}
-                        
-                        
-                        }
-                        all_data.append(data)
+                        "Host":urlparse(stream_url).netloc,
+                        "User-agent":"https://github.com/byte-capsule (Linux;Android 14)"}}
+                all_data.append(data)
                 
         
     return all_data
