@@ -67,7 +67,7 @@ def update_live_event_info():
             if len(event["playingMetaData"])!=0 or event["contentAes128HlsUrl"]!=None:
                 stream_url=event["contentAes128HlsUrl"] if event["contentAes128HlsUrl"]!=None else event["playingMetaData"][0]["mediaUrl"]
                 try:cookie = event["playingMetaData"][0].get("signedCookie", "")
-                except:cookie=None
+                except:cookie=""
                 data={
                         "category_name":categoryname,
                         "name":name,
