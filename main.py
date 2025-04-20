@@ -58,7 +58,7 @@ def update_live_event_info():
         req=requests.get(api_live_matches,headers, verify=False)
     all_data=[]
     decode=json.loads(deecb(req.text))
-    print(decode)
+    
     if "contents" in decode["data"]:
         for event in decode["data"]["contents"]:
             name=event["contentName"]
@@ -68,8 +68,8 @@ def update_live_event_info():
                 stream_url=event["contentAes128HlsUrl"] if event["contentAes128HlsUrl"]!=None else event["playingMetaData"][0]["mediaUrl"]
                 try:cookie = event["playingMetaData"][0].get("signedCookie", "")
                 except:cookie=""
-				finally:cookie="" if not cookie else None
-				data={
+                finally:cookie="" if not cookie else None
+                data={
                         "category_name":categoryname,
                         "name":name,
                         "logo":logo,
@@ -80,7 +80,7 @@ def update_live_event_info():
                         "User-agent":"https://github.com/byte-capsule (Linux;Android 14)"}}
                 all_data.append(data)
                 
-        
+    print(all_data)    
     return all_data
 
 
