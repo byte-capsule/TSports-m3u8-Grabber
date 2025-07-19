@@ -1,8 +1,4 @@
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1752684901-LIVE.jpg", T Sports Live 01
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1752684901-LIVE.jpg", Bangladesh vs Pakistan
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
 #EXTHTTP:{"cookie":""}
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg", Live | Global Super League
-#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
-#EXTHTTP:{"cookie":""}
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
