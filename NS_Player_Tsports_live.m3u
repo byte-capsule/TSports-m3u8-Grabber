@@ -1,10 +1,10 @@
 [
   {
-    "name": "Bangladesh vs Pakistan",
-    "link": "https://cdn-staging.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+    "name": "LIVE | Bangladesh vs Pakistan",
+    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
     "logo": "https://image.tsports.com/images/mobile_thumbnail/1752918661-OTT-live-1920.jpg",
-    "origin": "https://cdn-staging.tsports.com",
-    "referrer": "https://cdn-staging.tsports.com",
+    "origin": "https://live.tsports.com",
+    "referrer": "https://live.tsports.com",
     "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "cookie": "",
     "drmScheme": "",
