@@ -2,3 +2,7 @@
 #EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
 #EXTHTTP:{"cookie":""}
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg", T Sports Live 02
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":""}
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
