@@ -9,16 +9,5 @@
     "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
-  },
-  {
-    "name": "T Sports Live 02",
-    "link": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
-    "logo": "https://image.tsports.com/images/mobile_thumbnail/1750064430-LIVE.jpg",
-    "origin": "https://live.tsports.com",
-    "referrer": "https://live.tsports.com",
-    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "",
-    "drmScheme": "",
-    "drmLicense": ""
   }
 ]
